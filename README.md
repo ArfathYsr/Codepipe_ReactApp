@@ -1,6 +1,6 @@
 # ViteShop
 
-This frontend application serves as an e-commerce platform, enabling users to browse products via search or category filters. It incorporates a fully functional shopping cart, facilitating the addition and removal of multiple items. Furthermore, users can view their order history within the 'My Orders' section. I developed this project primarily to practice my frontend development skills.
+This frontend application serves as an e-commerce platform, enabling users to browse products via search or category filters. It incorporates a fully functional shopping cart, facilitating the addition and removal of multiple items. Furthermore, users can view their order history within the 'My Orders' section. I developed this project primarily to practice my frontend development skills are updated.
 
 ## Tech
 
